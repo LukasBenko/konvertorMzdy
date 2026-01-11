@@ -4,6 +4,8 @@ hidden = [
     "tkinter",
     "tkinter.font",
     "xml",
+    "xml.dom",
+    "xml.dom.minidom",
     "xml.etree",
     "xml.etree.ElementTree",
 ]
